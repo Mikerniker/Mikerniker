@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mikerniker
 - 👀 These are some practice projects using HTML, CSS, Bootstrap, Python, Flask, and Tkinter.
-- 💞️ I hope to work with you soon!
-- 📫 
+- 💞️ Thank you for visiting!
+
 
 
 
