@@ -1,5 +1,7 @@
+![Githubprofileblue](https://github.com/Mikerniker/Mikerniker/assets/63586831/0a980f2f-035a-416a-89ba-60b3b1694e5f)
 
-![githubprofile](https://github.com/Mikerniker/Mikerniker/assets/63586831/7c375360-a7fe-4a69-a548-4c9a4103047a)
+
+<!-- ![githubprofile](https://github.com/Mikerniker/Mikerniker/assets/63586831/7c375360-a7fe-4a69-a548-4c9a4103047a) -->
 
 
 
