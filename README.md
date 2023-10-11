@@ -1,9 +1,6 @@
 ![Githubprofileblue2](https://github.com/Mikerniker/Mikerniker/assets/63586831/a1232dbc-6604-4057-a3b2-2b84c03212df)
 
-
 [![An image of @mikerniker's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mikerniker)](https://holopin.io/@mikerniker)
-
-
 
 
 <!-- ![This is an image](https://github.com/Mikerniker/Mikerniker/blob/main/githubbanner.png)
