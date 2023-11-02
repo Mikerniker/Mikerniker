@@ -2,6 +2,8 @@
 
 [![An image of @mikerniker's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mikerniker)](https://holopin.io/@mikerniker)
 
+<!-- ![Mik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikerniker&show=prs_merged&theme=tokyonight&rank_icon=github) -->
+
 
 <!-- ![This is an image](https://github.com/Mikerniker/Mikerniker/blob/main/githubbanner.png)
 ![This is an image](https://github.com/Mikerniker/Mikerniker/blob/main/intro2.png)
